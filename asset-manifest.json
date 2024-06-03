@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//subinDeveloper.github.io/responsiveNavbar/static/css/main.09dddf5f.css",
+    "main.js": "/https//subinDeveloper.github.io/responsiveNavbar/static/js/main.a28a429d.js",
+    "index.html": "/https//subinDeveloper.github.io/responsiveNavbar/index.html",
+    "main.09dddf5f.css.map": "/https//subinDeveloper.github.io/responsiveNavbar/static/css/main.09dddf5f.css.map",
+    "main.a28a429d.js.map": "/https//subinDeveloper.github.io/responsiveNavbar/static/js/main.a28a429d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09dddf5f.css",
+    "static/js/main.a28a429d.js"
+  ]
+}
